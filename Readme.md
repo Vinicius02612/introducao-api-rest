@@ -29,7 +29,7 @@ PATCH => ATUALIZAR PARCIALMENTE OS DADOS DE UMA API. <br>
 DELETE => DELETAR OU APAGAR OS DADOS DE UMA API OU BANCO DE DADOS.<br>
 
 <hr>
-<h2> Status CODe</h2>
+<h2> Status CODE</h2>
 <hr>
 
 Serve para informar ao usuário ou o desenvolvendor se houve algum erro durante a uso da aplicação.
