@@ -1,4 +1,4 @@
-<h1>ESTUDANDO API<h1>
+<h1>ESTUDANDO API REST<h1>
 
 <hr>
 
